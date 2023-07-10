@@ -6,3 +6,5 @@
 
 #### 기본 입출력 실습
 [소스코드 : HELLOWORLD_EX1.PY 도전 문제 완료](https://github.com/Dalliaaaaa/PYTHON_CODING_TEST/blob/main/DAY1/HELLOWORLD_EX1.py)
+
+[소스코드 : HELLOWORLD_EX2.py 도전 문제 완료](https://github.com/Dalliaaaaa/PYTHON_CODING_TEST/blob/main/DAY1/DATA_INPUT_EX2.py)
