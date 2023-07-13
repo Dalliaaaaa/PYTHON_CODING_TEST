@@ -22,4 +22,6 @@
 ### 자료형
 [소스코드 : DATA_TYPE_EX6.py 도전 문제 완료](https://github.com/Dalliaaaaa/PYTHON_CODING_TEST/blob/main/DAY1-2/DATA_TYPE_EX6.py)
 
-[소스코드 : DATA_TYPE]
+[소스코드 : DATA_TYPE_EX7.py 도전 문제 완료](https://github.com/Dalliaaaaa/PYTHON_CODING_TEST/blob/main/DAY1-2/DATA_TYPE_EX7.py)
+
+[소스코드 : DATA_TYPE_EX8.py 도전 문제 완료]()
